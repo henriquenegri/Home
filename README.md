@@ -2,12 +2,12 @@
   
   <h1 align="center">
     👋😉 Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/marcelo-batista-561871219/">Marcelo Batista</a> 
+    <a href="https://www.linkedin.com/in/henrique-de-almeida-negri-390254271/">Henrique Negri</a> 
     🚀
   </h1>
   
   <p align="center">
-    Sou desenvolvedor fullstack e desde sempre sou apaixonado por tecnologia 💻✨
+    Sou desenvolvedor Frontend e sou apaixonado por tecnologia 💻✨
   </p>
   
 </div>
@@ -15,9 +15,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/MarceloBatistazul">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarceloBatistazul&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBatistazul&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/henriquenegri">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquenegri&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenegri&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -45,8 +45,8 @@
 <div align="center">
   <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelo-batista-561871219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="batistazul37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henrique-de-almeida-negri-390254271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="riquenegri11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
@@ -56,7 +56,7 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Feito com :heart: e HTML</p>
 </div>
 
 
